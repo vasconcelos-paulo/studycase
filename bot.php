@@ -32,6 +32,16 @@
                     </p>
                 </div>
             </div>
+            <div class="bot-inbox inbox">
+                <div class="icon">
+                    <i class="fas fa-user"></i>
+                </div>
+                <div class="msg-header">
+                    <p>
+                        Experimente: <br>"Como abrir conta?" 
+                    </p>
+                </div>
+            </div>
         </div>
         <div class="typing-field">
             <div class="input-data">

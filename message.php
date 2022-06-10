@@ -17,7 +17,7 @@ if(mysqli_num_rows($run_query) > 0){
     $replay = $fetch_data['replies'];
     echo $replay;
 }else{
-    echo "Ups, tente expor outra quest&ccedil;&atilde;o!";
+    echo 'Ups, <a target="_blank" href="https://www.standardbank.co.mz/">Clique aqui</a>, para mais op&ccedil;&otilde;es';
 }
 
 ?>
